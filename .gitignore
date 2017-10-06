@@ -1,3 +1,8 @@
-node_modules
-*.log
-.env
+target
+*.~*
+*~
+*.iml
+*.ipr
+*.iws
+.idea
+.DS_Store
